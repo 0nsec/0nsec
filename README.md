@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0nsec&label=Profile%20views&color=0e75b6&style=flat" alt="0nsec" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0nsec&theme=onedark)](https://github.com/0nsec/github-profile-trophy)
 
 - 📫 How to reach me **Termuxpro88@gmail.com**
 
