@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm 0nsec</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer from LocalHost</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0nsec&label=Profile%20views&color=0e75b6&style=flat" alt="0nsec" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 📫 How to reach me **Termuxpro88@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am worrier**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/0nsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="0nsec" height="30" width="40" /></a>
 <a href="https://codesandbox.com/0nsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="0nsec" height="30" width="40" /></a>
-<a href="https://instagram.com/not_yours_.xx0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not_yours_.xx0" height="30" width="40" /></a>
+<a href="https://instagram.com/wolf_.says" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not_yours_.xx0" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/0nsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="0nsec" height="30" width="40" /></a>
 </p>
 
