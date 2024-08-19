@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm 0nsec</h1>
-<h3 align="center">A passionate frontend developer from LocalHost</h3>
+<h3 align="center">A passionate Backend developer from LocalHost</h3>
 
 ```
 ██████╗ ███╗   ██╗███████╗███████╗ ██████╗
