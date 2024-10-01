@@ -1,35 +1,63 @@
-<h1 align="center">0nsec | CS Student & Security Enthusiast</h1>
-<h3 align="center">I’m a Computer Science student with a passion for cybersecurity, programming, and exploring the world of technology.</h3>
+# ~/ Welcome to 0nsec's GitHub Terminal
 
-```
+
+```python
 ██████╗ ███╗   ██╗███████╗███████╗ ██████╗
 ██╔═████╗████╗  ██║██╔════╝██╔════╝██╔════╝
 ██║██╔██║██╔██╗ ██║███████╗█████╗  ██║     
 ████╔╝██║██║╚██╗██║╚════██║██╔══╝  ██║     
 ╚██████╔╝██║ ╚████║███████║███████╗╚██████╗
- ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝ ╚═════╝
+ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝ ╚═════╝  v2.0
+
+  [+] Status: CONNECTED.
+  [+] User: 0nsec [admin@github]
+  [+] Location: github.com
+  [!] Access Level: Root
+───────────────────────────────────────────────────────────────
 ```
+```python
+0nsec@github:~$ whoami
+> I'm a Computer Science student passionate about cybersecurity, programming, and exploring technology.
+───────────────────────────────────────────────────────────────────
+
+0nsec@github:~$ echo "Skills"
+> Programming: Python, C, C++, c#, Java, Bash
+> Security: Penetration Testing, Network Security, Vulnerability Research
+> Tools: Git, vscode, Metasploit, Netcat
+> Systems: Linux, Windows, macOS
+───────────────────────────────────────────────────────────────────
+
+0nsec@github:~$ echo "Projects"
+> [HackTools](https://github.com/0nsec/HackTools): A collection of scripts and tools for automating pen-testing tasks.
+> [SecureChat](https://github.com/0nsec/SecureChat): A secure, encrypted messaging app built with Flask.
+> [CodeVault](https://github.com/0nsec/CodeVault): A repo of algorithms and code snippets.
+───────────────────────────────────────────────────────────────────
+
+0nsec@github:~$ echo "Learning"
+> Advanced networking, reverse engineering, OS concepts, and web dev.
+```
+```python
+[!] Warning: Unauthorized access detected. Tracking source...
+```
+```python
+0nsec@github:~$ echo "Contact"
+> Instagram: [https://instagram.com/wolf_.says]
+> dev.to: [https://dev.to/0nsec]
+> codesandbox: [https://codesandbox.com/0nsec]
+> Email: meatuni001@gmail.com
+```
+```python
+[-] Connection terminated.
+───────────────────────────────────────────────────────────────────
+
+```
+---
+![](https://github-readme-stats.vercel.app/api?username=0nsec&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=0nsec&theme=shades-of-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0nsec&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact) ![](https://visitcount.itsvg.in/api?id=0nsec&icon=0&color=0)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0nsec&label=Profile%20views&color=0e75b6&style=flat" alt="0nsec" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0nsec&theme=onedark)](https://github.com/0nsec/github-profile-trophy)
 
-- 📫 How to reach me **Termuxpro88@gmail.com**
+![trophy](https://github-profile-trophy.vercel.app/?username=0nsec&theme=onedark)
 
-- ⚡ Fun fact **I think I am worrier**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/0nsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="0nsec" height="30" width="40" /></a>
-<a href="https://codesandbox.com/0nsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="0nsec" height="30" width="40" /></a>
-<a href="https://instagram.com/wolf_.says" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not_yours_.xx0" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/0nsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="0nsec" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
-
-![0nsec's Stats](https://github-readme-stats.vercel.app/api?username=0nsec&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![0nsec's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0nsec&theme=vue-dark&hide_border=true)
-![0nsec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0nsec&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
