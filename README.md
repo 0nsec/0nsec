@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=bb9af7&background=1a1b27&center=true&vCenter=true&width=1010&height=50&lines=Welcome+to+0nsec+terminal;root@0nsec:~%23+whoami;Computer+Science+Student;Cybersecurity+Enthusiast;CVE+Researcher;Ethical+Hacker;Quantum+Computing+Explorer;Mobile+Security+Specialist" alt="Terminal Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=bb9af7&background=1a1b27&center=true&vCenter=true&width=1010&height=50&lines=Welcome+to+0nsec+terminal;root@0nsec:~%23+whoami;Muhammad+Bilal;Computer+Science+Student;Cybersecurity+Enthusiast;CVE+Researcher;Ethical+Hacker;Quantum+Computing+Explorer;Mobile+Security+Specialist" alt="Terminal Typing" />
 
 </div>
 
